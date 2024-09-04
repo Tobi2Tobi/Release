@@ -4,11 +4,11 @@
     "Name": "Midas",
     "Stackable": false,
     "MaxStack": 1,
-    "Img": "Midas2.png",
+    "Img": "Midas.png",
     "Rarity": 3,
     "Damage": 20,
     "Reach": 30,
-    "Weapontype" : 0
+    "Weapontype": 0
   },
   {
     "Id": "Terminator_Leg_2",
@@ -20,5 +20,16 @@
     "Damage": 30,
     "Reach": 20,
     "Weapontype": 1
+  },
+  {
+    "Id": "a3b05843-05d3-4cdc-a0ab-eb1ed069ad9e",
+    "Name": "Hyperion",
+    "Stackable": false,
+    "MaxStack": 1,
+    "Img": "Hype.png",
+    "Rarity": 0,
+    "Damage": 50,
+    "Reach": 50,
+    "Weapontype": 0
   }
 ]
