@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "Midas_Leg_1",
+    "Name": "Midas",
+    "Stackable": false,
+    "MaxStack": 1,
+    "Img": "Midas2.png",
+    "Rarity": 3,
+    "Damage": 20,
+    "Reach": 30,
+    "Weapontype" : 0
+  },
+  {
+    "Id": "Terminator_Leg_2",
+    "Name": "Terminator",
+    "Stackable": false,
+    "MaxStack": 1,
+    "Img": null,
+    "Rarity": 3,
+    "Damage": 30,
+    "Reach": 20,
+    "Weapontype": 1
+  }
+]

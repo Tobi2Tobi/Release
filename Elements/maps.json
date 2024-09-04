@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1",
+    "Name": "Mainmap",
+    "Size": "5000, 5000",
+    "Location": "0, 0",
+    "Img": "backgroudn.png",
+    "SpawnPoint": "575, 700"
+  },
+  {
+    "Id": "2",
+    "Name": "Ludwig_House",
+    "Size": "290, 190",
+    "Location": "0, 0",
+    "Img": "Ludwig_house.png",
+    "SpawnPoint": "0, 0"
+  }
+]

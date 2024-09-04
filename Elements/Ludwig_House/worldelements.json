@@ -1,0 +1,41 @@
+[
+  {
+    "Id": "84e69394-c78f-4683-9cae-3fd723640494",
+    "Name": "Ludwig",
+    "Location": "50, 50",
+    "Size": "50, 50",
+    "Type": 0,
+    "Action": 0,
+    "Img": null,
+    "Text": [
+      "Hi my name is Ludwig ",
+      " How are you?"
+    ],
+    "InteractionCount": 0,
+    "Mapindex": "Ludwig_House",
+    "NewMap": "",
+    "Invisible": false,
+    "TeleportLoc": "0, 0"
+  },
+  {
+    "Id": "d77d1101-8997-4513-be28-ddf9280853ea",
+    "Name": "Ludwig_Door",
+    "Location": "172, 182",
+    "Size": "50, 10",
+    "Type": 1,
+    "Action": 2,
+    "Img": null,
+    "Text": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "InteractionCount": 0,
+    "Mapindex": "Ludwig_House",
+    "NewMap": "Mainmap",
+    "Invisible": false,
+    "TeleportLoc": "575, 700"
+  }
+]

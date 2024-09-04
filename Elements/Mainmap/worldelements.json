@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "25434b87-aa2c-407b-923f-7c254424d7d8",
+    "Name": "Ludwig_House",
+    "Location": "500, 500",
+    "Size": "200, 200",
+    "Type": 2,
+    "Action": 4,
+    "Img": "house.png",
+    "Text": null,
+    "InteractionCount": 0,
+    "Mapindex": "Mainmap",
+    "NewMap": null,
+    "Invisible": false,
+    "TeleportLoc": "0, 0"
+  },
+  {
+    "Id": null,
+    "Name": "Ludwig_House_Door_IN",
+    "Location": "575, 680",
+    "Size": "50, 20",
+    "Type": 1,
+    "Action": 2,
+    "Img": null,
+    "Text": null,
+    "InteractionCount": 0,
+    "Mapindex": "Mainmap",
+    "NewMap": "Ludwig_House",
+    "Invisible": false,
+    "TeleportLoc": "200, 130"
+  }
+]

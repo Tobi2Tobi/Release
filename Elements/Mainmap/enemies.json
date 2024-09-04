@@ -1,0 +1,30 @@
+[
+  {
+    "Id": null,
+    "Name": "MAx",
+    "Healh": 20,
+    "Defense": 0,
+    "Damage": 20,
+    "EnemyType": 1,
+    "Img": "Max.png",
+    "Location": "800, 200",
+    "Size": "30, 70",
+    "Movment": 0,
+    "Mapindex": "Mainmap",
+    "Invisframes": 20
+  },
+  {
+    "Id": "3b213181-968a-4293-907c-8a4f324eacbb",
+    "Name": "Bird_2",
+    "Healh": 10,
+    "Defense": 10,
+    "Damage": 5,
+    "EnemyType": 1,
+    "Img": "Bird.png",
+    "Location": "98, 543",
+    "Size": "50, 20",
+    "Movment": 1,
+    "Mapindex": "Mainmap",
+    "Invisframes": 20
+  }
+]
