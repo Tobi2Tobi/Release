@@ -15,7 +15,7 @@
     "Name": "Terminator",
     "Stackable": false,
     "MaxStack": 1,
-    "Img": null,
+    "Img": "Terminator.png",
     "Rarity": 3,
     "Damage": 30,
     "Reach": 20,
@@ -31,5 +31,16 @@
     "Damage": 50,
     "Reach": 50,
     "Weapontype": 0
+  },
+  {
+    "Id": "8424ac82-367f-4236-b095-927027dc81f5",
+    "Name": "Spear",
+    "Stackable": false,
+    "MaxStack": 1,
+    "Img": "Hype.png",
+    "Rarity": 0,
+    "Damage": 30,
+    "Reach": 70,
+    "Weapontype": 2
   }
 ]

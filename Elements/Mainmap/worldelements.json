@@ -28,5 +28,39 @@
     "NewMap": "Ludwig_House",
     "Invisible": false,
     "TeleportLoc": "200, 130"
+  },
+  {
+    "Id": "d965b9b0-eddb-4bbf-97e6-96faff53edfa",
+    "Name": "Fence2",
+    "Location": "980, 423",
+    "Size": "800, 40",
+    "Type": 2,
+    "Action": 4,
+    "Img": "fence2.png",
+    "Text": [
+      ""
+    ],
+    "InteractionCount": 0,
+    "Mapindex": "Mainmap",
+    "NewMap": "",
+    "Invisible": false,
+    "TeleportLoc": "0, 0"
+  },
+  {
+    "Id": "782e59a5-bc78-48ab-af53-3c2b52c5399b",
+    "Name": "fence3",
+    "Location": "985, 663",
+    "Size": "800, 40",
+    "Type": 2,
+    "Action": 3,
+    "Img": "fence2.png",
+    "Text": [
+      ""
+    ],
+    "InteractionCount": 0,
+    "Mapindex": "Mainmap",
+    "NewMap": "",
+    "Invisible": false,
+    "TeleportLoc": "0, 0"
   }
 ]
