@@ -4,7 +4,7 @@
     "Name": "Mainmap",
     "Size": "5000, 5000",
     "Location": "0, 0",
-    "Img": "backgroudn.png",
+    "Img": "Mainmap.png",
     "SpawnPoint": "575, 700"
   },
   {

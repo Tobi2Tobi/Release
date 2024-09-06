@@ -62,5 +62,43 @@
     "NewMap": "",
     "Invisible": false,
     "TeleportLoc": "0, 0"
+  },
+  {
+    "Id": "a261a068-74e2-4f38-b131-8e88f6fe352c",
+    "Name": "Fence_Bridge",
+    "Location": "2330, 1580",
+    "Size": "800, 40",
+    "Type": 2,
+    "Action": 4,
+    "Img": "fence2.png",
+    "Text": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "InteractionCount": 0,
+    "Mapindex": "Mainmap",
+    "NewMap": "",
+    "Invisible": false,
+    "TeleportLoc": "0, 0"
+  },
+  {
+    "Id": "8e3b69a7-b523-4089-bed5-db3da41af84f",
+    "Name": "bridge_fence2",
+    "Location": "2349, 1880",
+    "Size": "800, 40",
+    "Type": 2,
+    "Action": 4,
+    "Img": "fence2.png",
+    "Text": [
+      ""
+    ],
+    "InteractionCount": 0,
+    "Mapindex": "Mainmap",
+    "NewMap": "",
+    "Invisible": false,
+    "TeleportLoc": "0, 0"
   }
 ]
